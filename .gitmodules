@@ -1,0 +1,3 @@
+[submodule "owem"]
+	path = owem
+	url = https://github.com/anderfuller/owem
