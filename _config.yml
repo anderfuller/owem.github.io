@@ -1,8 +1,8 @@
-title: OWEM
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Open Wiki of Electrochemical Methods
+# description: 
 theme: just-the-docs
 
-url: https://owem.github.io
+url: https://anderfuller.github.io/owem-site
 
 math: mathjax
 
